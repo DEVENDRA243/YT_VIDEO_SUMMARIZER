@@ -1,0 +1,38 @@
+[
+  {
+    "id": "en_short_01",
+    "title": "What is Machine Learning in 3 Minutes",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=ukzFI9rgwfU",
+    "category": "short_explainer",
+    "has_manual_captions": true,
+    "description": "Short single-topic video explaining machine learning basics."
+  },
+  {
+    "id": "en_medium_01",
+    "title": "How Large Language Models Work",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs",
+    "category": "medium_lecture",
+    "has_manual_captions": true,
+    "description": "Multi-topic lecture covering tokens, attention, and training."
+  },
+  {
+    "id": "hi_clean_01",
+    "title": "Artificial Intelligence Basics in Hindi",
+    "language": "hi",
+    "url": "https://www.youtube.com/watch?v=2ePf9rue1Ao",
+    "category": "hindi_formal",
+    "has_manual_captions": true,
+    "description": "Formal Hindi educational content with standard Devanagari script."
+  },
+  {
+    "id": "hi_conv_01",
+    "title": "Technology Discussion in Hindi",
+    "language": "hi",
+    "url": "https://www.youtube.com/watch?v=J---aiyznGQ",
+    "category": "hindi_conversational",
+    "has_manual_captions": false,
+    "description": "Conversational Hindi video with colloquial fillers like matlab, toh, and um."
+  }
+]
